@@ -15,12 +15,3 @@ Approach
 
 Each problem is solved by:
 
-Understanding the problem manually first (pen-and-paper logic)
-Writing a brute-force / first-pass solution
-Testing with sample inputs
-Refining where needed
-Tech
-
-Python 3, Jupyter Notebook
-
-Part of a self-directed learning path toward AI/ML engineering.
