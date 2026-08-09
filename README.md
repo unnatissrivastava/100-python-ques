@@ -19,12 +19,6 @@ Understanding the problem manually first (pen-and-paper logic)
 Writing a brute-force / first-pass solution
 Testing with sample inputs
 Refining where needed
-Progress
- Q1–20 (in progress / partially done)
- Q21–40
- Q41–60
- Q61–80
- Q81–100
 Tech
 
 Python 3, Jupyter Notebook
