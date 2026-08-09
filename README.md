@@ -7,11 +7,3 @@ Math & Logic (Q1–20): number manipulation, digit operations, geometry formulas
 Patterns (Q41–45): star patterns, number patterns, pyramids
 Series (Q46–49): mathematical series, summations
 Strings (Q51–57): string manipulation, searching, palindrome checks
-Lists (Q58–71): list operations, searching, sorting, transformations
-Matrices (Q72–76): matrix operations, multiplication
-Dictionaries (Q79–84): dictionary operations, transformations
-Functions & Recursion (Q87+): recursive problem solving
-Approach
-
-Each problem is solved by:
-
