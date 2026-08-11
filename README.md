@@ -22,7 +22,7 @@ Each problem is approached step-by-step:
 1. **Understand the problem manually** : break it down using pen-and-paper logic.
 2. **Write a brute-force / first-pass solution** : focus on getting the logic right.
 3. **Test with sample inputs** : verify the output and handle edge cases.
-4. **Refine where needed** — improve the solution after understanding the underlying logic.
+4. **Refine where needed**  improve the solution after understanding the underlying logic.
 
 > The goal is not just to get the correct output, but to understand **why the solution works**.
 
