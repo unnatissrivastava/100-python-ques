@@ -7,7 +7,7 @@ A collection of 100 Python practice problems covering programming fundamentals, 
 | Section | Problems | Topics |
 |---|---:|---|
 | **Math & Logic** | Q1-20 | Number manipulation, digit operations, geometry formulas, conditionals |
-| **Patterns** | Q41–45 | Star patterns, number patterns, pyramids |
+| **Patterns** | Q4145 | Star patterns, number patterns, pyramids |
 | **Series** | Q46–49 | Mathematical series, summations |
 | **Strings** | Q51–57 | String manipulation, searching, palindrome checks |
 | **Lists** | Q58–71 | List operations, searching, sorting, transformations |
