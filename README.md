@@ -28,7 +28,7 @@ Each problem is approached step-by-step:
 
 ## 📈 Progress
 
-- ⬜ Q1–20 — In Progress / Partially Done
+- ⬜ Q120 — In Progress / Partially Done
 - ⬜ Q21–40
 - ⬜ Q41–60
 - ⬜ Q61–80
