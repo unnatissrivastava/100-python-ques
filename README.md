@@ -36,7 +36,7 @@ Each problem is approached step-by-step:
 
 ## 🛠️ Tech Stack
 
-- Python 3
+- Python 
 - Jupyter Notebook
 
 ## 🎯 Learning Goal
